@@ -176,7 +176,9 @@ a:hover, a:active {
     color: #fff;
     box-shadow: 0 0 0 3px #fff, 0 0 0 5px #747474;
 }
-
+a{
+    text-decoration: none;
+}
 .btn-rounded {
     border-radius: 40px !important;
 }
